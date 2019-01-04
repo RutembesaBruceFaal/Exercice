@@ -1,2 +1,1 @@
-# Exercice
-repository exercice
+gitHub is very interesting!
